@@ -1,0 +1,49 @@
+* {
+    font-family: Nunito;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  .sidebar{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+  
+    background: white;
+    
+   
+  }
+  .My_website{
+    padding-top: ;
+  }
+  nav{
+    position: flex;
+    padding: 40px;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+   
+    
+  }
+  nav ul li{
+    position: relative;
+    display: inline;
+    list-style: none;
+    margin: 10px 10px;
+    
+  }
+  .about{
+    margin-left: 50px;
+  }
+  .home{
+    margin-left: 300px;
+  }
+  nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+  nav ul li a:hover{
+    color: brown;
+  }
